@@ -8,3 +8,6 @@ drop_percent = 0.2
 Sample input to predict entity type:
 
 text = "Dosa is an extremely famous south Indian dish"
+
+
+NER Code Credits to : https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
